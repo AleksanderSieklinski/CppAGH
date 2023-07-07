@@ -1,0 +1,4 @@
+/home/stud2021/1sieklinski/Inf4/Projekt2/build/CMakeFiles/rebuild_cache.dir
+/home/stud2021/1sieklinski/Inf4/Projekt2/build/CMakeFiles/edit_cache.dir
+/home/stud2021/1sieklinski/Inf4/Projekt2/build/CMakeFiles/clean-cmake-files.dir
+/home/stud2021/1sieklinski/Inf4/Projekt2/build/CMakeFiles/main.dir

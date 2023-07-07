@@ -1,0 +1,8 @@
+# ninja log v5
+4	561	1670775822034567080	executables/CMakeFiles/complex.dir/main/complex.cpp.o	fbe6c3a72877bf5c
+5	536	1670775822010566199	executables/CMakeFiles/vector.dir/main/vector.cpp.o	b9ef001134ad235a
+15	79	1670775708474399977	library/libComplexVector.a	cb82f424e7e77538
+540	712	1670775822182572511	executables/vector	894918bc4a733a4a
+561	728	1670775822198573099	executables/complex	c8ed799c620e5eb1
+7	580	1670775639067853311	library/CMakeFiles/ComplexVector.dir/release/src/ComplexNumber.cpp.o	48cb53515372363f
+8	519	1670775676937242797	library/CMakeFiles/ComplexVector.dir/release/src/Vector.cpp.o	59e5d1d3c60a5afc

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Code.dir/lab02.cpp.o CMakeFiles/Code.dir/src/FunctionSeries.cpp.o CMakeFiles/Code.dir/src/Functions.cpp.o -o Code 

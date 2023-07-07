@@ -1,0 +1,3 @@
+/home/stud2021/1sieklinski/Inf3/lab09/build/CMakeFiles/Code.dir
+/home/stud2021/1sieklinski/Inf3/lab09/build/CMakeFiles/edit_cache.dir
+/home/stud2021/1sieklinski/Inf3/lab09/build/CMakeFiles/rebuild_cache.dir

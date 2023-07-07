@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab08/build",
+  "command": "/usr/bin/g++-10 -DDATAPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab08/data\\\" -DDEBUG=0 -DRELEASE=1 -I/home/stud2021/1sieklinski/Inf3/lab08/library/release/include -O3 -DNDEBUG -fPIC -std=gnu++11 -o library/CMakeFiles/ComplexVector.dir/release/src/ComplexNumber.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab08/library/release/src/ComplexNumber.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab08/library/release/src/ComplexNumber.cpp"
+},
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab08/build",
+  "command": "/usr/bin/g++-10 -DDATAPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab08/data\\\" -DDEBUG=0 -DRELEASE=1 -I/home/stud2021/1sieklinski/Inf3/lab08/library/release/include -O3 -DNDEBUG -fPIC -std=gnu++11 -o library/CMakeFiles/ComplexVector.dir/release/src/Vector.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab08/library/release/src/Vector.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab08/library/release/src/Vector.cpp"
+},
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab08/build",
+  "command": "/usr/bin/g++-10 -DDATAPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab08/data\\\" -DDEBUG=0 -DRELEASE=1 -I/home/stud2021/1sieklinski/Inf3/lab08/library/release/include -O3 -DNDEBUG -fPIE -std=gnu++11 -o executables/CMakeFiles/vector.dir/main/vector.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab08/executables/main/vector.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab08/executables/main/vector.cpp"
+},
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab08/build",
+  "command": "/usr/bin/g++-10 -DDATAPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab08/data\\\" -DDEBUG=0 -DRELEASE=1 -I/home/stud2021/1sieklinski/Inf3/lab08/library/release/include -O3 -DNDEBUG -fPIE -std=gnu++11 -o executables/CMakeFiles/complex.dir/main/complex.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab08/executables/main/complex.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab08/executables/main/complex.cpp"
+}
+]

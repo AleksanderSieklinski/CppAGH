@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/FunctionSeries.h
+Functions.h
+../include/Functions.h
+functional
+-
+
+../include/Functions.h
+iostream
+-
+cmath
+-
+
+/home/stud2021/1sieklinski/Inf4/lab2/src/FunctionSeries.cpp
+FunctionSeries.h
+/home/stud2021/1sieklinski/Inf4/lab2/src/FunctionSeries.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Code.dir/Main.cpp.o CMakeFiles/Code.dir/src/Factory.cpp.o CMakeFiles/Code.dir/src/TestObj.cpp.o -o Code 

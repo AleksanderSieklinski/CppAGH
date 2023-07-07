@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab09/build",
+  "command": "/usr/bin/g++-10 -DPROJECTPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab09\\\" -I/home/stud2021/1sieklinski/Inf3/lab09/include -g -std=gnu++11 -o CMakeFiles/Code.dir/Main.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab09/Main.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab09/Main.cpp"
+},
+{
+  "directory": "/home/stud2021/1sieklinski/Inf3/lab09/build",
+  "command": "/usr/bin/g++-10 -DPROJECTPATH=\\\"/home/stud2021/1sieklinski/Inf3/lab09\\\" -I/home/stud2021/1sieklinski/Inf3/lab09/include -g -std=gnu++11 -o CMakeFiles/Code.dir/src/MapPoint.cpp.o -c /home/stud2021/1sieklinski/Inf3/lab09/src/MapPoint.cpp",
+  "file": "/home/stud2021/1sieklinski/Inf3/lab09/src/MapPoint.cpp"
+}
+]

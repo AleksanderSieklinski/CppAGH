@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ComplexNumber.h
+iostream
+-
+cmath
+-
+
+../include/Vector.h
+ComplexNumber.h
+../include/ComplexNumber.h
+
+/home/stud2021/1sieklinski/Inf3/lab06/Main.cpp
+Vector.h
+/home/stud2021/1sieklinski/Inf3/lab06/Vector.h
+ComplexNumber.h
+/home/stud2021/1sieklinski/Inf3/lab06/ComplexNumber.h
+iostream
+-
+
+/home/stud2021/1sieklinski/Inf3/lab06/src/ComplexNumber.cpp
+ComplexNumber.h
+/home/stud2021/1sieklinski/Inf3/lab06/src/ComplexNumber.h
+
+/home/stud2021/1sieklinski/Inf3/lab06/src/Vector.cpp
+Vector.h
+/home/stud2021/1sieklinski/Inf3/lab06/src/Vector.h
+

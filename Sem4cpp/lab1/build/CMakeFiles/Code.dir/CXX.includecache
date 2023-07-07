@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Fraction.h
+iostream
+-
+
+../include/FractionArray.h
+iostream
+-
+Fraction.h
+../include/Fraction.h
+
+../include/Maths.h
+
+/home/stud2021/1sieklinski/Inf4/lab1/lab01.cpp
+Fraction.h
+/home/stud2021/1sieklinski/Inf4/lab1/Fraction.h
+FractionArray.h
+/home/stud2021/1sieklinski/Inf4/lab1/FractionArray.h
+iostream
+-
+
+/home/stud2021/1sieklinski/Inf4/lab1/src/Fraction.cpp
+Fraction.h
+/home/stud2021/1sieklinski/Inf4/lab1/src/Fraction.h
+Maths.h
+/home/stud2021/1sieklinski/Inf4/lab1/src/Maths.h
+
+/home/stud2021/1sieklinski/Inf4/lab1/src/FractionArray.cpp
+FractionArray.h
+/home/stud2021/1sieklinski/Inf4/lab1/src/FractionArray.h
+
+/home/stud2021/1sieklinski/Inf4/lab1/src/Maths.cpp
+Maths.h
+/home/stud2021/1sieklinski/Inf4/lab1/src/Maths.h
+

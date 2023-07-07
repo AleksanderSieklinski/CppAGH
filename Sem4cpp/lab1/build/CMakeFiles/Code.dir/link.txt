@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Code.dir/lab01.cpp.o CMakeFiles/Code.dir/src/Fraction.cpp.o CMakeFiles/Code.dir/src/FractionArray.cpp.o CMakeFiles/Code.dir/src/Maths.cpp.o -o Code 

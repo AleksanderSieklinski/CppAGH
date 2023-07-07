@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MyArray.h
+iostream
+-
+vector
+-
+typeindex
+-
+memory
+-
+
+../include/Printer.h
+MyArray.h
+../include/MyArray.h
+
+/home/stud2021/1sieklinski/Inf4/Projekt2/main.cpp
+iostream
+-
+string
+-
+MyArray.h
+/home/stud2021/1sieklinski/Inf4/Projekt2/MyArray.h
+Printer.h
+/home/stud2021/1sieklinski/Inf4/Projekt2/Printer.h
+
